@@ -1,3 +1,5 @@
+Homework assignment to practice Redux and Sagas.
+
 # Redux Saga Garden
 
 The saga continues with an epic garden of epicness!
